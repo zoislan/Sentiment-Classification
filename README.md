@@ -62,3 +62,5 @@ Additional experiments included:
 - Including bigrams improved feature representation
 - SVC achieved highest recall for negative class
 - Voting Classifier chosen for robustness and vocabulary coverage
+- 📌 Despite the modest overall accuracy, the final model **ranked 1st out of 18 students** in the course leaderboard based on unseen test set performance
+
