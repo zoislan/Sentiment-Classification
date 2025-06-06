@@ -10,7 +10,6 @@ The goal was to develop a sentiment classification model using text data labeled
 
 | File                                  | Description |
 |---------------------------------------|-------------|
-| `main.ipynb`                          | Orchestrates the training, evaluation, and prediction steps for final model submission. |
 | `experiments1.ipynb`                 | Evaluates and compares ML models using TF-IDF and CountVectorizer (LogReg, NB, SVC, RF). |
 | `experiments2_preprocess_validation.ipynb` | Tests different preprocessing variations and validates their effects on model accuracy. |
 | `Technical Report.pdf`               | Full write-up describing methodology, results, EDA, and insights. |
