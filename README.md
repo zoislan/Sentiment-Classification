@@ -4,7 +4,7 @@ This project was completed as part of the Machine Learning COMP-544DL course at 
 
 The goal was to develop a sentiment classification model using text data labeled as positive, neutral, or negative. The project involved detailed preprocessing, feature extraction, model selection, and evaluation — all based on a dataset of 8,000 text samples. 
 
-📌 **Note**: The project scope required the use of **traditional machine learning models only** (e.g., SVM, Logistic Regression, Naive Bayes), without the use of deep learning or transformer-based methods.
+📌 **Note**: The project scope required the use of **traditional machine learning models only** (e.g., Trees, SVM, Logistic Regression, Naive Bayes), without the use of deep learning or transformer-based methods.
 
 ---
 
