@@ -61,7 +61,7 @@ Additional experiments included:
 - All core models achieved **~60% cross-validation accuracy**
 - Including bigrams improved feature representation
 - SVC achieved highest recall for negative class
-- Voting Classifier chosen for robustness and vocabulary coverage
+- Voting Classifier was chosen as the final model to improve generalization, leveraging the diversity of vocabulary representations across individual models
 
-📌 Despite the modest overall accuracy, the final model **ranked 1st out of 18 students** in the course leaderboard based on unseen test set performance
+📌 Despite the modest overall accuracy, the final model **ranked 1st out of 18 students** in the course leaderboard based on unseen test set performance.
 
