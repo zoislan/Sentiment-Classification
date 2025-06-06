@@ -1,4 +1,4 @@
-# Sentiment Classification
+# Z_Sentiment Classification
 
 This project was completed as part of the **Machine Learning COMP-544DL** course at the **University of Nicosia**.
 
